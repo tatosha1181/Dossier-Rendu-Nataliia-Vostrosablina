@@ -11,4 +11,4 @@ Ce dossier comporte:
 5. Le fichier en CSV des occurrences
 6. Un fichier en .md qui répond à la question suivante : en quoi la digitalisation de l'oeuvre permet-elle d'envisager de nouvelles possibilités en Humanités Digitales ? Vous pouvez prendre appui sur le travail que vous avez réalisé et mentionner quelques travaux et références en Humanités digitales.
 
-Je tiens à preciser que le logiciel Iramuteq ne marche pas sur les ordinateurs outre des français; il n'y a pas de localisation par les langues ce qui rend le travail de visualisation impossible. 
+Je tiens à preciser que le logiciel Iramuteq ne marche pas sur les ordinateurs avec la cyrillique ou tout un autre alphabet étranger; il n'y a pas de localisation par les langues ce qui rend le travail de visualisation impossible. 
